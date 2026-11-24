@@ -1,5 +1,7 @@
 # ARCTURUS
 ARCTURUS repository page for my mcpack.
+**Modrinth Page**
+https://modrinth.com/modpack/arcturus-mysteriousviolence.
 
 **ARCTURUS** aims to improve many aspects of your Minecraft game, primarily centered on **improving performance, adding new visuals** and including some **helpful QoL mods. 
 **
