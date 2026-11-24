@@ -3,7 +3,7 @@ ARCTURUS repository page for my mcpack.
 **Modrinth Page**
 https://modrinth.com/modpack/arcturus-mysteriousviolence.
 
-**ARCTURUS** aims to improve many aspects of your Minecraft game, primarily centered on **improving performance, adding new visuals** and including some **helpful QoL mods. 
+**ARCTURUS** is a modpack that is supported on mod loaders, Fabric, Neoforge, and Quilt and aims to improve many aspects of your Minecraft game, primarily centered on **improving performance, adding new visuals** and including some **helpful QoL mods. 
 **
 You can add shader(s) if you wish to take your visuals further. New leaf and grass textures, entities with movement effects and bright ore colors will all be apparent. Some useful QoL mods such as **Zoom, Light, AppleSkin, Jade** and **JEI** have also been included alongside various other performance-related mods. Some shaders and resource packs come pre-downloaded.
 
