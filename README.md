@@ -1,7 +1,9 @@
 # ARCTURUS
-ARCTURUS repository page for my mcpack.
+ARCTURUS repository page for my modpack.
 **Modrinth Page**
 https://modrinth.com/modpack/arcturus-mysteriousviolence.
+**Curseforge Page**
+getting reviewed
 
 **ARCTURUS** is a modpack that is supported on mod loaders, Fabric, Neoforge, and Quilt and aims to improve many aspects of your Minecraft game, primarily centered on **improving performance, adding new visuals** and including some **helpful QoL mods. 
 **
